@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Necessário acesso a biblioteca de fotos para o envio da sua foto. </string>
+	<key>NSCameraUsageDescription</key>
+	<string>Necessário acesso a camera para enviar sua foto.</string>
+	<key>CLIENT_ID</key>
+	<string>787618379056-ve47smsevnse9lebe7r82kvj7cu5v6d3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.787618379056-ve47smsevnse9lebe7r82kvj7cu5v6d3</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDjx-oBdwa1QfbS0zcOHBnc9NyONIFTmL8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>787618379056</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>CounterApp.EthanolOrGasoline</string>
+	<key>PROJECT_ID</key>
+	<string>ethanolorgasoline</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ethanolorgasoline.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:787618379056:ios:0e09046f3eabc87cdac4f5</string>
+	<key>DATABASE_URL</key>
+	<string>https://ethanolorgasoline-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
